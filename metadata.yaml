@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '8392'
     url: http://www.gutenberg.org/2009/agents/8392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24482#Zip-the-Adventures-of-a-Frisky-Fox-Terrier
 gutenberg_issued: '2008-01-31'
 gutenberg_type: Text
 identifiers:
