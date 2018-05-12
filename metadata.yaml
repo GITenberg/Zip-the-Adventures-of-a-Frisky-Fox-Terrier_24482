@@ -1,0 +1,34 @@
+_repo: Zip-the-Adventures-of-a-Frisky-Fox-Terrier_24482
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Higgins, Violet Moore
+    gutenberg_agent_id: '26520'
+    url: http://www.gutenberg.org/2009/agents/26520
+covers:
+- cover_type: archival
+  image_path: 24482-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Montgomery, Frances Trego
+    aliases:
+    - Montgomery, F. T. (Frances Trego)
+    - Wheeler, F. G.
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '8392'
+    url: http://www.gutenberg.org/2009/agents/8392
+description: ''
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+title: Zip, the Adventures of a Frisky Fox Terrier
+url: http://www.gutenberg.org/ebooks/24482
